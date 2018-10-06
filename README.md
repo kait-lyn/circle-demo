@@ -1,7 +1,7 @@
 # circle-demo
 
 ## Powerpoint
-(Slides)[https://docs.google.com/presentation/d/1sFObDbY0ZwU1UCDzWBFmTu-lkpaSDQKZ67iaNARBDMM/edit?usp=sharing]
+https://docs.google.com/presentation/d/1sFObDbY0ZwU1UCDzWBFmTu-lkpaSDQKZ67iaNARBDMM/edit?usp=sharing
 
 
 ## Project setup
