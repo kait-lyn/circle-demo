@@ -1,36 +1,21 @@
 # circle-demo
 
+## Powerpoint
+(Slides)[https://docs.google.com/presentation/d/1sFObDbY0ZwU1UCDzWBFmTu-lkpaSDQKZ67iaNARBDMM/edit?usp=sharing]
+
+
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Run locally
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
 ### Run your tests
 ```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your end-to-end tests
-```
-yarn run test:e2e
-```
-
-### Run your unit tests
-```
-yarn run test:unit
+yarn test:e2e
+yarn test:unit
 ```
